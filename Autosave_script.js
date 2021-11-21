@@ -1,8 +1,10 @@
-// Invoke the developer tool(f12) and paste this code into the "Console" tab
 function autosave(){
-document.getElementsByClassName("sc-psCJM duQXbd sc-jxtrTG aXiXj")[0].click();
-document.getElementsByClassName("sc-pZAwj kCyJhb")[0].click()
-document.getElementsByClassName("sc-fzqARJ sc-fzqNqU fTMsNj")[4].click()
-document.getElementsByClassName("sc-psCJM jciFbB SaveVersionBasicModal_StyledButton-sc-1nw2i1e fByxVM")[0].click()
+document.getElementsByClassName("sc-EZqKI bGdNGQ sc-Eclwb hJESVN")[0].click();
+document.getElementsByClassName("sc-EZqKI klMIei")[3].click()
+document.getElementsByClassName("mdc-radio__native-control")[1].click()
+document.getElementsByClassName("sc-EZqKI klMIei SaveVersionAdvancedModal_StyledButton--1ldlftq efnWmH")[0].click()
+document.getElementsByClassName("sc-cVnwkp cVEIUH")[0].click()
+document.getElementsByClassName("sc-cVnwkp cVEIUH")[2].click()
+document.getElementsByClassName("sc-EZqKI ifvIRM SaveVersionBasicModal_StyledButton--1nw2i1e SZEbW")[0].click()
 }
-setInterval(autosave, 2000000) // adjust time to your preferences	
+setInterval(autosave, 2000000)	
