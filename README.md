@@ -1,3 +1,3 @@
 # Kaggle
 
-Repository for kaggle-related code and contests
+Repository for kaggle-related code, contests and personal projects run on Kaggle servers.
